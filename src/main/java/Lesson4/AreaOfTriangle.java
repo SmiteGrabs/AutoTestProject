@@ -1,5 +1,5 @@
 package Lesson4;
-
+//Комментарий для git
 import java.text.DecimalFormat;
 
 public class AreaOfTriangle

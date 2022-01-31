@@ -1,5 +1,5 @@
 package Lesson4;
-
+//Комментарий для git
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;

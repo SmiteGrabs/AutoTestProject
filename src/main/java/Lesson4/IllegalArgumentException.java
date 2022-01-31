@@ -1,4 +1,5 @@
 package Lesson4;
+//Комментарий для git
 
 public class IllegalArgumentException extends Exception
 {
